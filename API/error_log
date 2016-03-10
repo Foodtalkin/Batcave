@@ -1,0 +1,58 @@
+[14-Jul-2015 06:41:45 America/Chicago] PHP Warning:  include(pages/functions.php): failed to open stream: No such file or directory in /home4/shuchir/public_html/batcave2/API/login.php on line 3
+[14-Jul-2015 06:41:45 America/Chicago] PHP Warning:  include(pages/functions.php): failed to open stream: No such file or directory in /home4/shuchir/public_html/batcave2/API/login.php on line 3
+[14-Jul-2015 06:41:45 America/Chicago] PHP Warning:  include(): Failed opening 'pages/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/shuchir/public_html/batcave2/API/login.php on line 3
+[14-Jul-2015 06:41:45 America/Chicago] PHP Fatal error:  Call to undefined function connect() in /home4/shuchir/public_html/batcave2/API/login.php on line 4
+[28-Jul-2015 02:27:08 America/Chicago] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home4/shuchir/public_html/batcave2/API/update.adv.api.php on line 6
+[28-Jul-2015 02:27:08 America/Chicago] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home4/shuchir/public_html/batcave2/API/update.adv.api.php on line 6
+[28-Jul-2015 02:27:08 America/Chicago] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/shuchir/public_html/batcave2/API/update.adv.api.php on line 6
+[28-Jul-2015 02:27:08 America/Chicago] PHP Fatal error:  Call to undefined function connect() in /home4/shuchir/public_html/batcave2/API/update.adv.api.php on line 7
+[15-Oct-2015 02:27:42 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'shuchir_FTI.application' doesn't exist' in /home4/shuchir/public_html/batcave/API/update.adv.api.php:45
+Stack trace:
+#0 /home4/shuchir/public_html/batcave/API/update.adv.api.php(45): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home4/shuchir/public_html/batcave/API/update.adv.api.php on line 45
+[15-Oct-2015 02:27:56 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'shuchir_FTI.application' doesn't exist' in /home4/shuchir/public_html/batcave/API/update.adv.api.php:45
+Stack trace:
+#0 /home4/shuchir/public_html/batcave/API/update.adv.api.php(45): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home4/shuchir/public_html/batcave/API/update.adv.api.php on line 45
+[15-Oct-2015 02:27:59 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'shuchir_FTI.application' doesn't exist' in /home4/shuchir/public_html/batcave/API/update.adv.api.php:45
+Stack trace:
+#0 /home4/shuchir/public_html/batcave/API/update.adv.api.php(45): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home4/shuchir/public_html/batcave/API/update.adv.api.php on line 45
+[15-Oct-2015 02:28:06 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'shuchir_FTI.application' doesn't exist' in /home4/shuchir/public_html/batcave/API/update.adv.api.php:45
+Stack trace:
+#0 /home4/shuchir/public_html/batcave/API/update.adv.api.php(45): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home4/shuchir/public_html/batcave/API/update.adv.api.php on line 45
+[15-Oct-2015 02:28:36 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'shuchir_FTI.delhi_live' doesn't exist' in /home4/shuchir/public_html/batcave/API/update.adv.api.php:55
+Stack trace:
+#0 /home4/shuchir/public_html/batcave/API/update.adv.api.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home4/shuchir/public_html/batcave/API/update.adv.api.php on line 55
+[15-Oct-2015 02:28:42 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'shuchir_FTI.delhi_live' doesn't exist' in /home4/shuchir/public_html/batcave/API/update.adv.api.php:55
+Stack trace:
+#0 /home4/shuchir/public_html/batcave/API/update.adv.api.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home4/shuchir/public_html/batcave/API/update.adv.api.php on line 55
+[15-Oct-2015 02:34:00 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'shuchir_FTI.delhi_live' doesn't exist' in /home4/shuchir/public_html/batcave/API/update.adv.api.php:55
+Stack trace:
+#0 /home4/shuchir/public_html/batcave/API/update.adv.api.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home4/shuchir/public_html/batcave/API/update.adv.api.php on line 55
+[15-Oct-2015 02:34:28 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'shuchir_FTI.delhi_live' doesn't exist' in /home4/shuchir/public_html/batcave/API/update.adv.api.php:55
+Stack trace:
+#0 /home4/shuchir/public_html/batcave/API/update.adv.api.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home4/shuchir/public_html/batcave/API/update.adv.api.php on line 55
+[15-Oct-2015 02:36:59 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'shuchir_FTI.delhi_live' doesn't exist' in /home4/shuchir/public_html/batcave/API/update.adv.api.php:55
+Stack trace:
+#0 /home4/shuchir/public_html/batcave/API/update.adv.api.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home4/shuchir/public_html/batcave/API/update.adv.api.php on line 55
+[15-Oct-2015 02:38:06 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'shuchir_FTI.delhi_live' doesn't exist' in /home4/shuchir/public_html/batcave/API/update.adv.api.php:55
+Stack trace:
+#0 /home4/shuchir/public_html/batcave/API/update.adv.api.php(55): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home4/shuchir/public_html/batcave/API/update.adv.api.php on line 55

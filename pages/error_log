@@ -1,0 +1,359 @@
+[14-Jul-2015 03:53:12 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home4/shuchir/public_html/batcave2/pages/fb_invites.php:203) in /home4/shuchir/public_html/batcave2/pages/fb_invites.php on line 204
+[14-Jul-2015 03:53:12 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/shuchir/public_html/batcave2/pages/fb_invites.php:203) in /home4/shuchir/public_html/batcave2/pages/fb_invites.php on line 204
+[14-Jul-2015 03:53:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/shuchir/public_html/batcave2/pages/fb_invites.php:203) in /home4/shuchir/public_html/batcave2/pages/fb_invites.php on line 206
+[14-Jul-2015 04:18:07 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/shuchir/public_html/batcave2/pages/advertisement.php:1) in /home4/shuchir/public_html/batcave2/pages/advertisement.php on line 2
+[14-Jul-2015 04:18:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/shuchir/public_html/batcave2/pages/advertisement.php:1) in /home4/shuchir/public_html/batcave2/pages/advertisement.php on line 4
+[14-Jul-2015 06:53:39 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/shuchir/public_html/batcave2/pages/bad_customer.php:1) in /home4/shuchir/public_html/batcave2/pages/bad_customer.php on line 3
+[14-Jul-2015 06:54:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/shuchir/public_html/batcave2/pages/bad_customer.php:1) in /home4/shuchir/public_html/batcave2/pages/bad_customer.php on line 3
+[14-Jul-2015 06:54:31 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/shuchir/public_html/batcave2/pages/handriks.php:2) in /home4/shuchir/public_html/batcave2/pages/handriks.php on line 4
+[14-Jul-2015 06:58:44 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/shuchir/public_html/batcave2/pages/fb_invites.php:1) in /home4/shuchir/public_html/batcave2/pages/fb_invites.php on line 3
+[14-Jul-2015 07:00:32 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/shuchir/public_html/batcave2/pages/fb_invites.php:1) in /home4/shuchir/public_html/batcave2/pages/fb_invites.php on line 3
+[14-Jul-2015 07:01:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/shuchir/public_html/batcave2/pages/fb_invites.php:1) in /home4/shuchir/public_html/batcave2/pages/fb_invites.php on line 5
+[14-Jul-2015 07:02:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/shuchir/public_html/batcave2/pages/fb_invites.php:1) in /home4/shuchir/public_html/batcave2/pages/fb_invites.php on line 3
+[14-Jul-2015 07:06:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/shuchir/public_html/batcave2/pages/fb_invites.php:1) in /home4/shuchir/public_html/batcave2/pages/fb_invites.php on line 3
+[14-Jul-2015 07:24:12 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/shuchir/public_html/batcave2/pages/advertisement.php:1) in /home4/shuchir/public_html/batcave2/pages/advertisement.php on line 3
+[14-Jul-2015 07:26:02 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/shuchir/public_html/batcave2/pages/fb_invites.php:1) in /home4/shuchir/public_html/batcave2/pages/fb_invites.php on line 3
+[14-Jul-2015 07:26:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/shuchir/public_html/batcave2/pages/bad_customer.php:1) in /home4/shuchir/public_html/batcave2/pages/bad_customer.php on line 3
+[14-Jul-2015 07:27:15 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/shuchir/public_html/batcave2/pages/fb_invites.php:1) in /home4/shuchir/public_html/batcave2/pages/fb_invites.php on line 3
+[14-Jul-2015 07:27:46 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/shuchir/public_html/batcave2/pages/fb_invites.php:1) in /home4/shuchir/public_html/batcave2/pages/fb_invites.php on line 3
+[14-Jul-2015 07:28:34 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home4/shuchir/public_html/batcave2/pages/bad_customer.php:1) in /home4/shuchir/public_html/batcave2/pages/bad_customer.php on line 3
+[16-Jul-2015 04:05:21 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home4/shuchir/public_html/batcave2/pages/index.php on line 15
+[16-Jul-2015 04:07:39 America/Chicago] PHP Warning:  mysql_num_rows() expects exactly 1 parameter, 0 given in /home4/shuchir/public_html/batcave2/pages/index.php on line 15
+[16-Jul-2015 04:09:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/index.php on line 16
+[16-Jul-2015 04:23:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/index.php on line 16
+[16-Jul-2015 04:26:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/index.php on line 16
+[16-Jul-2015 04:27:20 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/shuchir/public_html/batcave2/pages/index.php on line 16
+[16-Jul-2015 04:28:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/index.php on line 16
+[16-Jul-2015 04:28:24 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/shuchir/public_html/batcave2/pages/index.php on line 16
+[16-Jul-2015 04:28:37 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home4/shuchir/public_html/batcave2/pages/index.php on line 16
+[16-Jul-2015 04:29:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/index.php on line 16
+[16-Jul-2015 04:29:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/index.php on line 16
+[16-Jul-2015 04:30:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/index.php on line 16
+[16-Jul-2015 04:30:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/index.php on line 16
+[16-Jul-2015 04:31:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/index.php on line 16
+[16-Jul-2015 06:05:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/event_data.php on line 487
+[16-Jul-2015 07:07:05 America/Chicago] PHP Warning:  require(php-sdk/src/facebook.php): failed to open stream: No such file or directory in /home4/shuchir/public_html/batcave2/pages/index.php on line 281
+[16-Jul-2015 07:07:05 America/Chicago] PHP Warning:  require(php-sdk/src/facebook.php): failed to open stream: No such file or directory in /home4/shuchir/public_html/batcave2/pages/index.php on line 281
+[16-Jul-2015 07:07:05 America/Chicago] PHP Fatal error:  require(): Failed opening required 'php-sdk/src/facebook.php' (include_path='.:/opt/php54/lib/php') in /home4/shuchir/public_html/batcave2/pages/index.php on line 281
+[16-Jul-2015 07:09:11 America/Chicago] PHP Warning:  require(../php-sdk/src/facebook.php): failed to open stream: No such file or directory in /home4/shuchir/public_html/batcave2/pages/index.php on line 281
+[16-Jul-2015 07:09:11 America/Chicago] PHP Warning:  require(../php-sdk/src/facebook.php): failed to open stream: No such file or directory in /home4/shuchir/public_html/batcave2/pages/index.php on line 281
+[16-Jul-2015 07:09:11 America/Chicago] PHP Fatal error:  require(): Failed opening required '../php-sdk/src/facebook.php' (include_path='.:/opt/php54/lib/php') in /home4/shuchir/public_html/batcave2/pages/index.php on line 281
+[17-Jul-2015 07:06:46 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/shuchir/public_html/batcave2/pages/index.php on line 410
+[17-Jul-2015 07:07:14 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home4/shuchir/public_html/batcave2/pages/index.php on line 410
+[22-Jul-2015 01:45:56 America/Chicago] PHP Fatal error:  Uncaught OAuthException: An unknown error has occurred.
+  thrown in /home4/shuchir/public_html/batcave2/src/base_facebook.php on line 1325
+[22-Jul-2015 01:46:46 America/Chicago] PHP Fatal error:  Uncaught OAuthException: An unknown error has occurred.
+  thrown in /home4/shuchir/public_html/batcave2/src/base_facebook.php on line 1325
+[22-Jul-2015 01:48:35 America/Chicago] PHP Fatal error:  Uncaught OAuthException: An unknown error has occurred.
+  thrown in /home4/shuchir/public_html/batcave2/src/base_facebook.php on line 1325
+[22-Jul-2015 01:56:05 America/Chicago] PHP Fatal error:  Uncaught OAuthException: An unknown error has occurred.
+  thrown in /home4/shuchir/public_html/batcave2/src/base_facebook.php on line 1325
+[22-Jul-2015 01:57:33 America/Chicago] PHP Fatal error:  Uncaught OAuthException: An unknown error has occurred.
+  thrown in /home4/shuchir/public_html/batcave2/src/base_facebook.php on line 1325
+[30-Jul-2015 02:27:33 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home4/shuchir/public_html/batcave2/pages/index.php on line 6
+[30-Jul-2015 04:06:46 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home4/shuchir/public_html/batcave2/pages/index.php on line 189
+[30-Jul-2015 04:07:17 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home4/shuchir/public_html/batcave2/pages/index.php on line 6
+[30-Jul-2015 04:07:17 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home4/shuchir/public_html/batcave2/pages/index.php on line 189
+[30-Jul-2015 04:07:38 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home4/shuchir/public_html/batcave2/pages/index.php on line 189
+[30-Jul-2015 04:08:04 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home4/shuchir/public_html/batcave2/pages/index.php on line 189
+[30-Jul-2015 04:08:53 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home4/shuchir/public_html/batcave2/pages/index.php on line 189
+[30-Jul-2015 04:43:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/bad_customer.php on line 475
+[31-Jul-2015 02:43:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/bad_customer.php on line 475
+[31-Jul-2015 03:20:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/bad_customer.php on line 475
+[01-Aug-2015 01:46:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/bad_customer.php on line 475
+[01-Aug-2015 01:51:27 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/bad_customer.php on line 475
+[01-Aug-2015 04:30:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/bad_customer.php on line 475
+[02-Aug-2015 11:02:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/bad_customer.php on line 475
+[02-Aug-2015 11:03:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/bad_customer.php on line 475
+[03-Aug-2015 00:37:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/bad_customer.php on line 475
+[04-Aug-2015 01:25:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/bad_customer.php on line 475
+[04-Aug-2015 01:35:02 America/Chicago] PHP Warning:  file_get_contents(http://api.facebook.com/restserver.php?format=json&amp;method=links.getStats&amp;urls=https%3A%2F%2Fwww.facebook.com%2Ffoodtalkindia): failed to open stream: Connection timed out in /home4/shuchir/public_html/batcave2/pages/index.php on line 255
+[04-Aug-2015 01:35:12 America/Chicago] PHP Fatal error:  Class 'MetzWeb\Instagram\InstagramException' not found in /home4/shuchir/public_html/batcave2/pages/Instagram.php on line 636
+[04-Aug-2015 02:17:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/bad_customer.php on line 475
+[04-Aug-2015 02:18:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/bad_customer.php on line 475
+[04-Aug-2015 02:20:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/bad_customer.php on line 475
+[04-Aug-2015 02:21:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave2/pages/bad_customer.php on line 475
+[04-Aug-2015 02:59:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bad_customer.php on line 475
+[04-Aug-2015 03:06:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bad_customer.php on line 475
+[04-Aug-2015 03:07:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bad_customer.php on line 475
+[04-Aug-2015 03:39:43 America/Chicago] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home4/shuchir/public_html/batcave/pages/app_data.php on line 238
+[04-Aug-2015 03:41:14 America/Chicago] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home4/shuchir/public_html/batcave/pages/app_data.php on line 238
+[04-Aug-2015 03:42:53 America/Chicago] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home4/shuchir/public_html/batcave/pages/app_data.php on line 19
+[04-Aug-2015 03:44:03 America/Chicago] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home4/shuchir/public_html/batcave/pages/app_data.php on line 19
+[04-Aug-2015 03:47:55 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'shuchir_data_collection.contact' doesn't exist' in /home4/shuchir/public_html/batcave/pages/functions.php:90
+Stack trace:
+#0 /home4/shuchir/public_html/batcave/pages/functions.php(90): PDOStatement->execute(NULL)
+#1 /home4/shuchir/public_html/batcave/pages/app_data.php(15): getcount('contact', Object(PDO))
+#2 {main}
+  thrown in /home4/shuchir/public_html/batcave/pages/functions.php on line 90
+[04-Aug-2015 03:51:06 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/shuchir/public_html/batcave/pages/app_data.php on line 15
+[04-Aug-2015 03:51:34 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home4/shuchir/public_html/batcave/pages/app_data.php on line 14
+[04-Aug-2015 03:51:34 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home4/shuchir/public_html/batcave/pages/app_data.php on line 15
+[04-Aug-2015 03:51:34 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home4/shuchir/public_html/batcave/pages/app_data.php on line 16
+[04-Aug-2015 03:51:34 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home4/shuchir/public_html/batcave/pages/app_data.php on line 17
+[04-Aug-2015 03:52:54 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home4/shuchir/public_html/batcave/pages/app_data.php on line 14
+[04-Aug-2015 03:52:54 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home4/shuchir/public_html/batcave/pages/app_data.php on line 15
+[04-Aug-2015 03:52:54 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home4/shuchir/public_html/batcave/pages/app_data.php on line 16
+[04-Aug-2015 03:52:54 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home4/shuchir/public_html/batcave/pages/app_data.php on line 17
+[04-Aug-2015 03:53:13 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, integer given in /home4/shuchir/public_html/batcave/pages/app_data.php on line 14
+[04-Aug-2015 03:53:13 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, integer given in /home4/shuchir/public_html/batcave/pages/app_data.php on line 15
+[04-Aug-2015 03:53:13 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, integer given in /home4/shuchir/public_html/batcave/pages/app_data.php on line 16
+[04-Aug-2015 03:53:13 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home4/shuchir/public_html/batcave/pages/app_data.php on line 17
+[04-Aug-2015 03:58:51 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home4/shuchir/public_html/batcave/pages/functions.php on line 98
+[04-Aug-2015 03:59:32 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'shuchir_data_collection.Fb_data' doesn't exist' in /home4/shuchir/public_html/batcave/pages/functions.php:99
+Stack trace:
+#0 /home4/shuchir/public_html/batcave/pages/functions.php(99): PDOStatement->execute()
+#1 /home4/shuchir/public_html/batcave/pages/app_data.php(14): getcountf('Fb_data', Object(PDO))
+#2 {main}
+  thrown in /home4/shuchir/public_html/batcave/pages/functions.php on line 99
+[04-Aug-2015 04:00:41 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f_status' in 'where clause'' in /home4/shuchir/public_html/batcave/pages/functions.php:99
+Stack trace:
+#0 /home4/shuchir/public_html/batcave/pages/functions.php(99): PDOStatement->execute()
+#1 /home4/shuchir/public_html/batcave/pages/app_data.php(15): getcountf('contact', Object(PDO))
+#2 {main}
+  thrown in /home4/shuchir/public_html/batcave/pages/functions.php on line 99
+[04-Aug-2015 04:01:37 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f_status' in 'where clause'' in /home4/shuchir/public_html/batcave/pages/functions.php:99
+Stack trace:
+#0 /home4/shuchir/public_html/batcave/pages/functions.php(99): PDOStatement->execute()
+#1 /home4/shuchir/public_html/batcave/pages/app_data.php(15): getcountf('contact', Object(PDO))
+#2 {main}
+  thrown in /home4/shuchir/public_html/batcave/pages/functions.php on line 99
+[04-Aug-2015 04:01:39 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'f_status' in 'where clause'' in /home4/shuchir/public_html/batcave/pages/functions.php:99
+Stack trace:
+#0 /home4/shuchir/public_html/batcave/pages/functions.php(99): PDOStatement->execute()
+#1 /home4/shuchir/public_html/batcave/pages/app_data.php(15): getcountf('contact', Object(PDO))
+#2 {main}
+  thrown in /home4/shuchir/public_html/batcave/pages/functions.php on line 99
+[04-Aug-2015 05:20:51 America/Chicago] PHP Fatal error:  Cannot redeclare count() in /home4/shuchir/public_html/batcave/pages/functions.php on line 97
+[04-Aug-2015 05:21:19 America/Chicago] PHP Fatal error:  Cannot redeclare count() in /home4/shuchir/public_html/batcave/pages/functions.php on line 97
+[04-Aug-2015 05:23:59 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting ',' or ';' in /home4/shuchir/public_html/batcave/pages/advertisement.php on line 15
+[04-Aug-2015 05:29:10 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/shuchir/public_html/batcave/pages/functions.php on line 89
+[04-Aug-2015 05:29:40 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home4/shuchir/public_html/batcave/pages/functions.php on line 89
+[04-Aug-2015 05:30:06 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 0' at line 1' in /home4/shuchir/public_html/batcave/pages/functions.php:89
+Stack trace:
+#0 /home4/shuchir/public_html/batcave/pages/functions.php(89): PDO->query('SELECT count(*)...')
+#1 /home4/shuchir/public_html/batcave/pages/advertisement.php(13): countnum('adv', Object(PDO), 'status')
+#2 {main}
+  thrown in /home4/shuchir/public_html/batcave/pages/functions.php on line 89
+[04-Aug-2015 05:31:37 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 0' at line 1' in /home4/shuchir/public_html/batcave/pages/functions.php:90
+Stack trace:
+#0 /home4/shuchir/public_html/batcave/pages/functions.php(90): PDOStatement->execute()
+#1 /home4/shuchir/public_html/batcave/pages/advertisement.php(13): countnum('adv', Object(PDO), 'status')
+#2 {main}
+  thrown in /home4/shuchir/public_html/batcave/pages/functions.php on line 90
+[04-Aug-2015 05:32:12 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== 0' at line 1' in /home4/shuchir/public_html/batcave/pages/functions.php:90
+Stack trace:
+#0 /home4/shuchir/public_html/batcave/pages/functions.php(90): PDOStatement->execute()
+#1 /home4/shuchir/public_html/batcave/pages/advertisement.php(13): countnum('adv', Object(PDO), 'status')
+#2 {main}
+  thrown in /home4/shuchir/public_html/batcave/pages/functions.php on line 90
+[04-Aug-2015 05:32:28 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '== '0'' at line 1' in /home4/shuchir/public_html/batcave/pages/functions.php:90
+Stack trace:
+#0 /home4/shuchir/public_html/batcave/pages/functions.php(90): PDOStatement->execute()
+#1 /home4/shuchir/public_html/batcave/pages/advertisement.php(13): countnum('adv', Object(PDO), 'status')
+#2 {main}
+  thrown in /home4/shuchir/public_html/batcave/pages/functions.php on line 90
+[04-Aug-2015 05:41:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/functions.php on line 95
+[17-Aug-2015 04:23:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/app_request.php on line 340
+[17-Aug-2015 04:24:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/app_request.php on line 340
+[17-Aug-2015 04:24:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/app_data.php on line 344
+[17-Aug-2015 04:24:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/app_request.php on line 340
+[17-Aug-2015 04:24:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/app_data.php on line 344
+[17-Aug-2015 05:14:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/app_data.php on line 344
+[17-Aug-2015 05:14:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/app_request.php on line 340
+[14-Sep-2015 03:33:38 America/Chicago] PHP Warning:  file_get_contents(http://api.facebook.com/restserver.php?format=json&amp;method=links.getStats&amp;urls=https%3A%2F%2Fwww.facebook.com%2Ffoodtalkindia): failed to open stream: Network is unreachable in /home4/shuchir/public_html/batcave/pages/index.php on line 278
+[14-Sep-2015 03:33:48 America/Chicago] PHP Fatal error:  Class 'MetzWeb\Instagram\InstagramException' not found in /home4/shuchir/public_html/batcave/pages/Instagram.php on line 636
+[17-Sep-2015 13:07:29 America/Chicago] PHP Warning:  file_get_contents(http://api.facebook.com/restserver.php?format=json&amp;method=links.getStats&amp;urls=https%3A%2F%2Fwww.facebook.com%2Ffoodtalkindia): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home4/shuchir/public_html/batcave/pages/index.php on line 278
+[17-Sep-2015 13:08:01 America/Chicago] PHP Warning:  file_get_contents(http://api.facebook.com/restserver.php?format=json&amp;method=links.getStats&amp;urls=https%3A%2F%2Fwww.facebook.com%2Ffoodtalkindia): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home4/shuchir/public_html/batcave/pages/index.php on line 278
+[17-Sep-2015 13:08:18 America/Chicago] PHP Warning:  file_get_contents(http://api.facebook.com/restserver.php?format=json&amp;method=links.getStats&amp;urls=https%3A%2F%2Fwww.facebook.com%2Ffoodtalkindia): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home4/shuchir/public_html/batcave/pages/index.php on line 278
+[27-Oct-2015 02:38:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 297
+[27-Oct-2015 02:40:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 297
+[27-Oct-2015 02:42:08 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 297
+[27-Oct-2015 02:50:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 225
+[27-Oct-2015 02:50:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 291
+[27-Oct-2015 02:50:37 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 291
+[27-Oct-2015 02:57:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 225
+[27-Oct-2015 02:57:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 280
+[27-Oct-2015 02:57:12 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 280
+[27-Oct-2015 03:12:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 234
+[27-Oct-2015 03:12:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 299
+[27-Oct-2015 03:12:43 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 234
+[27-Oct-2015 03:12:43 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 306
+[27-Oct-2015 03:12:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 234
+[27-Oct-2015 03:12:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 289
+[27-Oct-2015 03:12:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 234
+[27-Oct-2015 03:12:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 299
+[27-Oct-2015 03:13:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 234
+[27-Oct-2015 03:13:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 306
+[27-Oct-2015 03:13:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 234
+[27-Oct-2015 03:13:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 289
+[27-Oct-2015 03:14:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 234
+[27-Oct-2015 03:14:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 289
+[27-Oct-2015 03:14:08 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 234
+[27-Oct-2015 03:14:08 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 306
+[27-Oct-2015 03:14:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 234
+[27-Oct-2015 03:14:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 299
+[29-Oct-2015 05:46:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 234
+[29-Oct-2015 05:46:13 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 299
+[29-Oct-2015 05:46:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 234
+[29-Oct-2015 05:46:17 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 306
+[29-Oct-2015 05:46:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 234
+[29-Oct-2015 05:46:20 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 289
+[05-Nov-2015 07:23:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 234
+[05-Nov-2015 07:23:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 299
+[05-Nov-2015 07:23:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 234
+[05-Nov-2015 07:23:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 306
+[05-Nov-2015 07:53:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 234
+[05-Nov-2015 07:53:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 306
+[05-Nov-2015 07:53:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 234
+[05-Nov-2015 07:53:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 289
+[06-Nov-2015 02:16:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 234
+[06-Nov-2015 02:16:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 306
+[06-Nov-2015 02:16:36 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 234
+[06-Nov-2015 02:16:36 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 289
+[09-Nov-2015 01:23:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/app_data.php on line 227
+[09-Nov-2015 04:16:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 234
+[09-Nov-2015 04:16:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 299
+[13-Nov-2015 04:59:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/app_data.php on line 227
+[13-Nov-2015 08:20:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 234
+[13-Nov-2015 08:20:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 306
+[17-Nov-2015 01:18:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 234
+[17-Nov-2015 01:18:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 306
+[17-Nov-2015 11:28:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 234
+[17-Nov-2015 11:28:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 299
+[23-Nov-2015 02:12:08 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/shuchir/public_html/batcave/pages/download.php on line 23
+[23-Nov-2015 02:33:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'Masterchef' (T_STRING) in /home4/shuchir/public_html/batcave/pages/functions.php on line 110
+[23-Nov-2015 03:07:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 240
+[23-Nov-2015 03:07:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 305
+[23-Nov-2015 03:08:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 240
+[23-Nov-2015 03:08:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 312
+[23-Nov-2015 03:08:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 240
+[23-Nov-2015 03:08:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 295
+[23-Nov-2015 04:52:42 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home4/shuchir/public_html/batcave/pages/functions.php on line 97
+[23-Nov-2015 04:53:46 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home4/shuchir/public_html/batcave/pages/functions.php on line 97
+[23-Nov-2015 05:01:08 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/event_data.php on line 198
+[23-Nov-2015 08:47:56 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/event_data.php on line 198
+[23-Nov-2015 10:21:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/event_data.php on line 198
+[24-Nov-2015 00:27:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/event_data.php on line 198
+[24-Nov-2015 00:37:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/downloadevent.php on line 22
+[24-Nov-2015 00:39:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/downloadevent.php on line 22
+[24-Nov-2015 00:43:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/downloadevent.php on line 24
+[27-Nov-2015 06:01:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 240
+[27-Nov-2015 06:01:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 305
+[27-Nov-2015 06:15:39 America/Chicago] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home4/shuchir/public_html/batcave/pages/handriks.php on line 12
+[27-Nov-2015 06:15:50 America/Chicago] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home4/shuchir/public_html/batcave/pages/handriks.php on line 12
+[27-Nov-2015 06:22:56 America/Chicago] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home4/shuchir/public_html/batcave/pages/handriks.php on line 12
+[01-Dec-2015 07:08:08 America/Chicago] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home4/shuchir/public_html/batcave/pages/handriks.php on line 12
+[01-Dec-2015 07:08:47 America/Chicago] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home4/shuchir/public_html/batcave/pages/handriks.php on line 12
+[01-Dec-2015 07:08:50 America/Chicago] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home4/shuchir/public_html/batcave/pages/handriks.php on line 12
+[02-Dec-2015 01:25:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 240
+[02-Dec-2015 01:25:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 305
+[02-Dec-2015 01:25:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 240
+[02-Dec-2015 01:25:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 295
+[02-Dec-2015 01:25:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 240
+[02-Dec-2015 01:25:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 312
+[02-Dec-2015 01:25:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 240
+[02-Dec-2015 01:25:11 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 305
+[02-Dec-2015 01:25:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 240
+[02-Dec-2015 01:25:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 305
+[02-Dec-2015 01:26:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 305
+[02-Dec-2015 01:26:43 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 305
+[02-Dec-2015 01:27:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 305
+[02-Dec-2015 01:28:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 305
+[02-Dec-2015 01:28:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/media.php on line 305
+[02-Dec-2015 01:29:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 240
+[02-Dec-2015 01:29:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 295
+[02-Dec-2015 01:29:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 240
+[02-Dec-2015 01:29:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 312
+[02-Dec-2015 01:30:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 240
+[02-Dec-2015 01:30:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 312
+[02-Dec-2015 01:30:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 240
+[02-Dec-2015 01:30:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 295
+[02-Dec-2015 01:32:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 240
+[02-Dec-2015 01:32:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 312
+[02-Dec-2015 01:34:51 America/Chicago] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home4/shuchir/public_html/batcave/pages/handriks.php on line 12
+[02-Dec-2015 01:34:57 America/Chicago] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home4/shuchir/public_html/batcave/pages/handriks.php on line 12
+[02-Dec-2015 01:35:24 America/Chicago] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home4/shuchir/public_html/batcave/pages/handriks.php on line 12
+[02-Dec-2015 01:54:28 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 240
+[02-Dec-2015 01:54:28 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 312
+[02-Dec-2015 01:54:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 240
+[02-Dec-2015 01:54:44 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 295
+[02-Dec-2015 01:54:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 240
+[02-Dec-2015 01:54:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 295
+[02-Dec-2015 02:05:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 240
+[02-Dec-2015 02:05:31 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 312
+[02-Dec-2015 02:05:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 240
+[02-Dec-2015 02:05:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 303
+[02-Dec-2015 02:25:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 240
+[02-Dec-2015 02:25:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 312
+[02-Dec-2015 02:25:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 240
+[02-Dec-2015 02:25:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 303
+[02-Dec-2015 08:55:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 240
+[02-Dec-2015 08:55:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 303
+[02-Dec-2015 23:55:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 240
+[02-Dec-2015 23:55:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 312
+[02-Dec-2015 23:55:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 240
+[02-Dec-2015 23:55:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 303
+[02-Dec-2015 23:57:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 240
+[02-Dec-2015 23:57:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 312
+[02-Dec-2015 23:57:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 240
+[02-Dec-2015 23:57:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 303
+[22-Dec-2015 01:54:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/downloadevent.php on line 22
+[29-Dec-2015 05:33:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 246
+[29-Dec-2015 05:33:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 318
+[29-Dec-2015 05:33:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 246
+[29-Dec-2015 05:33:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 309
+[29-Dec-2015 05:56:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 246
+[29-Dec-2015 05:56:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 318
+[29-Dec-2015 05:56:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 246
+[29-Dec-2015 05:56:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 309
+[29-Dec-2015 05:56:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 246
+[29-Dec-2015 05:56:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 318
+[29-Dec-2015 05:56:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 246
+[29-Dec-2015 05:56:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 309
+[30-Dec-2015 01:34:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 246
+[30-Dec-2015 01:34:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 318
+[30-Dec-2015 01:34:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 246
+[30-Dec-2015 01:34:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 318
+[30-Dec-2015 01:34:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 246
+[30-Dec-2015 01:34:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 309
+[30-Dec-2015 01:37:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 246
+[30-Dec-2015 01:37:53 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 309
+[30-Dec-2015 01:37:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 246
+[30-Dec-2015 01:37:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 318
+[30-Dec-2015 01:50:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/downloadevent.php on line 22
+[30-Dec-2015 01:50:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/downloadevent.php on line 22
+[30-Dec-2015 02:27:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 246
+[30-Dec-2015 02:27:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 318
+[30-Dec-2015 02:28:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 246
+[30-Dec-2015 02:28:07 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 309
+[30-Dec-2015 02:31:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 246
+[30-Dec-2015 02:31:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 318
+[30-Dec-2015 02:31:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 246
+[30-Dec-2015 02:31:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 318
+[30-Dec-2015 02:32:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 246
+[30-Dec-2015 02:32:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/influencer.php on line 309
+[30-Dec-2015 03:06:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 246
+[30-Dec-2015 03:06:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 318
+[01-Jan-2016 08:58:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/downloadevent.php on line 22
+[03-Jan-2016 06:19:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 246
+[03-Jan-2016 06:19:57 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 318
+[05-Jan-2016 00:21:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/downloadevent.php on line 22
+[05-Jan-2016 00:21:48 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/downloadevent.php on line 22
+[05-Jan-2016 00:21:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/downloadevent.php on line 22
+[05-Jan-2016 00:23:21 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/downloadevent.php on line 22
+[05-Jan-2016 00:23:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/downloadevent.php on line 22
+[05-Jan-2016 00:24:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/downloadevent.php on line 22
+[05-Jan-2016 00:24:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/downloadevent.php on line 22
+[05-Jan-2016 00:24:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/downloadevent.php on line 22
+[02-Feb-2016 04:04:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/downloadevent.php on line 22
+[05-Feb-2016 07:36:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/downloadevent.php on line 22
+[09-Feb-2016 04:17:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 246
+[09-Feb-2016 04:17:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 318
+[29-Feb-2016 04:03:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 246
+[29-Feb-2016 04:03:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 318
+[03-Mar-2016 00:58:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 246
+[03-Mar-2016 01:05:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/shuchir/public_html/batcave/pages/bloggers.php on line 246

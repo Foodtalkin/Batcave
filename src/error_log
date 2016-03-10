@@ -1,0 +1,10 @@
+[22-Jul-2015 01:59:08 America/Chicago] PHP Fatal error:  Uncaught OAuthException: An unknown error has occurred.
+  thrown in /home4/shuchir/public_html/batcave2/src/base_facebook.php on line 1325
+[22-Jul-2015 02:02:56 America/Chicago] PHP Fatal error:  Uncaught OAuthException: An unknown error has occurred.
+  thrown in /home4/shuchir/public_html/batcave2/src/base_facebook.php on line 1325
+[22-Jul-2015 02:34:53 America/Chicago] PHP Warning:  file_get_contents(http://graph.facebook.com/phmysqlcode): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home4/shuchir/public_html/batcave2/src/test.php on line 4
+[22-Jul-2015 02:35:19 America/Chicago] PHP Warning:  file_get_contents(http://graph.facebook.com/foodtalkindia): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home4/shuchir/public_html/batcave2/src/test.php on line 4
+[22-Jul-2015 02:36:29 America/Chicago] PHP Warning:  file_get_contents(http://graph.facebook.com/page/foodtalkindia): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home4/shuchir/public_html/batcave2/src/test.php on line 4
